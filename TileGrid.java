@@ -1,6 +1,5 @@
 package Tile;
 
-import Controllers.ButtonHandler;
 
 import java.awt.*;
 
