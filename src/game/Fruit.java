@@ -19,4 +19,3 @@ public class Fruit extends Shape {
         g.setColor(Color.RED);
         g.fillOval(positionX, positionY, size, size);
     }
-}
